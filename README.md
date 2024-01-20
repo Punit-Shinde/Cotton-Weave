@@ -1,6 +1,7 @@
-#﻿# Cotton-Weave Landing Page
+# Cotton-Weave Landing Page
 
-![Fashion Portfolio](cottonWeave.jpg)
+
+![Cotton-Weave](cottonWeave.jpg)
 
 ## Description
 
