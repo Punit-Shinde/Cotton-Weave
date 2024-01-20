@@ -1,5 +1,4 @@
-# Cotton-Weave Landing Page
-
+# Cotton-Weave 
 
 ![Cotton-Weave](cottonWeave.jpg)
 
